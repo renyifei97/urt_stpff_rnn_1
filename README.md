@@ -48,6 +48,7 @@ python rnn.py
 
 - 预测结果图保存为：`RNN.png`
 - 模型性能评价指标（MSE, MAE, MAPE, R²）将在终端显示。
+![RNN.png](RNN.png)
 
 ## 🚀 后续计划
 
